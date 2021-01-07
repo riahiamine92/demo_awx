@@ -1,0 +1,2 @@
+- name: affichage hello
+  shell: "echo hello"
